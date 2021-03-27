@@ -1,5 +1,9 @@
 // ITERATION 1
 
+let suspectsArray = []
+let weaponsArray = []
+let roomsArray = []
+
 // Suspects Collection
 const suspectsArray = [];
 
